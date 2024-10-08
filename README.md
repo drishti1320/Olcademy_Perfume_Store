@@ -1,4 +1,34 @@
-# OLCADEMY_PERFUME_STORE
+[README.md](https://github.com/user-attachments/files/17296470/README.md)# OLCADEMY_PERFUME_STORE
+
+# React + Vite
+## Project Setup
+
+This project was created using Vite and React. Follow the steps below to set up the project on your local machine.
+
+### Commands for Project Setup
+
+1. Create the project using Vite:
+
+   npm create vite@latest Perfume_Shop
+
+2. Navigate into the project folder:
+   
+   cd Perfume_Shop
+
+3. Install all necessary packages:
+
+   npm install
+
+4. Start the development server:
+
+   npm run dev
+
+5. Additional Packages
+   For dynamic routing and footer icons, install the following packages:
+   
+   npm install react-router-dom react-icons
+oading README.md…]()
+
 
 The Perfume Store is a React.js-based web app with a responsive navbar, a banner section featuring a video background, and interactive cards with hover effects. Built with react-router-dom and react-icons, clicking a card redirects users to detailed perfume info. The project is managed via NPM, ensuring smooth navigation and a modern user experience.
 
