@@ -1,0 +1,174 @@
+[
+
+  {
+    "id": "1",
+    "name": "Euphoria by Calvin Klein",
+    "description": "Euphoria by Calvin Klein is a radiant and seductive fragrance designed for women who embrace their inner confidence. This scent exudes a blend of exotic fruits, rich florals, and a sensual creamy base, creating an alluring and long-lasting aroma. Perfect for both day and night, Euphoria captivates with its vibrant energy and evokes a sense of passion and mystery, making it a perfect addition to any collection.",
+    "price": 69.99,
+    "image": "product1.jpg",
+    "sizes": ["30ml", "50ml", "100ml"],
+    "reviews": [
+      {
+        "reviewer": "Jane Doe",
+        "rating": 5,
+        "comment": "Absolutely love this scent! It lasts all day."
+      },
+      {
+        "reviewer": "John Smith",
+        "rating": 4,
+        "comment": "Great fragrance, but a bit too strong for my liking."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Bleu de Chanel",
+    "description": "Bleu de Chanel is an invigorating and sophisticated fragrance crafted for the modern man. It opens with a refreshing burst of citrus, followed by an aromatic heart of peppery, woody notes, and finally settles into the warmth of amber and cedar. This timeless scent embodies both strength and elegance, making it a perfect choice for both everyday wear and special occasions.",
+    "price": 89.99,
+    "image": "product2.jpg",
+    "sizes": ["50ml", "100ml"],
+    "reviews": [
+      {
+        "reviewer": "Tom Hardy",
+        "rating": 5,
+        "comment": "This is my go-to fragrance. Absolutely amazing!"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "L'interdit Givenchy",
+    "description": "L'interdit by Givenchy is a daring and captivating fragrance, blending fruity and floral notes to create a modern yet timeless scent for women. With top notes of orange blossom and jasmine, it is complemented by a bold base of patchouli and vetiver. The result is a scent that is both fresh and empowering, perfect for the bold woman who isn't afraid to break the rules.",
+    "price": 99.99,
+    "image": "product3.jpg",
+    "sizes": ["50ml", "75ml", "100ml"],
+    "reviews": [
+      {
+        "reviewer": "Emily Clark",
+        "rating": 4,
+        "comment": "Beautiful scent, but slightly expensive."
+      },
+      {
+        "reviewer": "Sophia Brown",
+        "rating": 5,
+        "comment": "A classic! I can't go without it."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Tom Ford Black Orchid",
+    "description": "Tom Ford Black Orchid is a luxurious, deep, and seductive fragrance that combines the richness of dark florals with spices. This fragrance is opulent and dramatic, with top notes of black truffle and ylang-ylang, enhanced by a base of dark chocolate, incense, and amber. It is a bold, statement-making perfume designed for the confident individual who enjoys a touch of mystery and allure.",
+    "price": 120.00,
+    "image": "product4.jpg",
+    "sizes": ["30ml", "50ml", "100ml"],
+    "reviews": [
+      {
+        "reviewer": "Kate Wilson",
+        "rating": 5,
+        "comment": "Such a bold and unique fragrance. I get compliments every time!"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Amor Cacharel",
+    "description": "Amor Cacharel is a fresh and invigorating fragrance that blends the crispness of mint and green apple with the warmth of tonka bean. This vibrant fragrance is perfect for those who enjoy a balance between freshness and warmth, making it an ideal choice for both daytime and evening wear. With its playful yet sophisticated notes, Amor Cacharel exudes charm and leaves a lasting impression.",
+    "price": 75.00,
+    "image": "product5.jpg",
+    "sizes": ["30ml", "50ml", "100ml"],
+    "reviews": [
+      {
+        "reviewer": "Chris Evans",
+        "rating": 5,
+        "comment": "A perfect balance of freshness and warmth. Lasts all day."
+      },
+      {
+        "reviewer": "Liam Clark",
+        "rating": 4,
+        "comment": "Great scent, but I wish it was a little stronger."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Sauvage Dior",
+    "description": "Sauvage by Dior is a timeless aquatic fragrance that blends fresh citrus with a subtle touch of spices and a woody base. Inspired by open spaces and the raw beauty of nature, this scent evokes freedom and masculinity. With its vibrant and refreshing notes, Sauvage is perfect for the man who seeks a fragrance that is versatile for both casual and formal occasions.",
+    "price": 89.50,
+    "image": "product6.jpg",
+    "sizes": ["50ml", "100ml", "150ml"],
+    "reviews": [
+      {
+        "reviewer": "Lucas Grey",
+        "rating": 5,
+        "comment": "This is my favorite cologne for summer. So refreshing!"
+      },
+      {
+        "reviewer": "Nathan White",
+        "rating": 4,
+        "comment": "A classic scent, but it fades too quickly on my skin."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Dolce & Gabbana",
+    "description": "Dolce & Gabbana's signature fragrance is an intense and intoxicating blend of rich coffee and warm vanilla, creating a scent that is both bold and inviting. Perfect for evening wear, this perfume radiates luxury and sophistication, making it the ideal choice for a night out. Its rich and smooth aroma lingers on the skin, leaving a lasting impression.",
+    "price": 105.00,
+    "image": "product7.jpg",
+    "sizes": ["30ml", "50ml", "90ml"],
+    "reviews": [
+      {
+        "reviewer": "Emma Thompson",
+        "rating": 5,
+        "comment": "So luxurious! It's perfect for a night out."
+      },
+      {
+        "reviewer": "Sophia Harris",
+        "rating": 4,
+        "comment": "I love the scent but it feels a little too heavy for daytime wear."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Yves Saint Laurent Black Opium",
+    "description": "Yves Saint Laurent Black Opium is a vibrant and addictive fragrance that combines fruity notes of Sicilian lemon and green apple with a sensual base of cedarwood and musk. This perfume is perfect for those who seek a fresh, invigorating scent with a modern twist. Ideal for summer, its light and crisp aroma will leave you feeling refreshed and energized all day long.",
+    "price": 85.99,
+    "image": "product8.jpg",
+    "sizes": ["25ml", "50ml", "100ml"],
+    "reviews": [
+      {
+        "reviewer": "Olivia Martinez",
+        "rating": 5,
+        "comment": "I adore this perfume! It's perfect for summer."
+      },
+      {
+        "reviewer": "Isabella Johnson",
+        "rating": 4,
+        "comment": "Beautiful and refreshing, but it doesn't last long enough."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Chanel No. 5",
+    "description": "Chanel No. 5 is an iconic and timeless fragrance that has defined elegance for generations. A beautiful blend of floral aldehydes and jasmine, this scent is both complex and sophisticated, embodying the essence of femininity. It is the ultimate symbol of class and luxury, making it a must-have for women who appreciate classic beauty. Its refined aroma continues to transcend time and trends.",
+    "price": 120.00,
+    "image": "product9.jpg",
+    "sizes": ["50ml", "100ml", "150ml"],
+    "reviews": [
+      {
+        "reviewer": "Margaret Turner",
+        "rating": 5,
+        "comment": "A classic fragrance that every woman should own!"
+      },
+      {
+        "reviewer": "Grace Walker",
+        "rating": 4,
+        "comment": "Timeless and elegant, but quite expensive."
+      }
+    ]
+  }
+  
+]
